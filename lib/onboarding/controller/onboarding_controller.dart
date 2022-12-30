@@ -4,6 +4,7 @@ import 'package:visitorapplication/core/model/onbording.dart';
 
 
 class OnboardingController extends GetxController {
+
   var selectedPageIndex = 0.obs;
   bool get isLastPage => selectedPageIndex.value == onboardingPages.length - 1;
   var pageController = PageController();

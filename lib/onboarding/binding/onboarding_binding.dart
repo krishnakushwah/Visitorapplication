@@ -3,6 +3,7 @@ import 'package:visitorapplication/onboarding/controller/onboarding_controller.d
 
 
 class OnboardingBinding extends Bindings {
+
   @override
   void dependencies() {
     // TODO: implement dependencies

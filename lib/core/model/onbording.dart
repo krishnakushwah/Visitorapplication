@@ -3,5 +3,7 @@ class OnboardingInfo {
   final title;
   final description;
 
+
+
   OnboardingInfo(this.imageAsset, this.title, this.description);
 }
