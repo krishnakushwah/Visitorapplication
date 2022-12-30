@@ -63,7 +63,6 @@ class OnboardingPage extends StatelessWidget {
                       ),
                     );
                   }),
-
                 ),
               ),
             ),
@@ -89,7 +88,7 @@ class OnboardingPage extends StatelessWidget {
               ),
               onPressed: () { // Get.toNamed(RouteConstant.welcome);
                  },
-              child: const Text('Skip'),
+              child: const Text('Skip!'),
             ),
 
         )

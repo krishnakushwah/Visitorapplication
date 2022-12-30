@@ -18,7 +18,7 @@ class OnboardingController extends GetxController {
 
   List<OnboardingInfo> onboardingPages = [
     OnboardingInfo('assets/ONBOARDING1.jpg', 'PLANNING',
-        'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'),
+        'MyGate is a comprehensive security and community management platform helping millions of users to make their life safe, secure and convenient. Our various services include:.'),
     OnboardingInfo('assets/ONBOARDING2.jpg', 'STARTUP',
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'),
     OnboardingInfo('assets/ONBOARDING3.jpg', 'SUCCESS',
